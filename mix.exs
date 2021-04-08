@@ -11,7 +11,7 @@ defmodule Aoc2018Ex.MixProject do
     ]
   end
 
-  # Run "mix help compile.app" to learn about applications.
+  # Ejecutar "mix help compile.app" para aprender acerca de las aplicaciones.
   def application do
     [
       extra_applications: [:logger, :timex]
